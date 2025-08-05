@@ -1,8 +1,12 @@
+![Sanction Checker Screenshot](/public/home.png)
+
 # Sanction Checker
 
 A modern web application for global sanctions screening and compliance verification. This tool allows users to search for individuals across multiple sanctions databases to ensure compliance with international regulations.
 
+![Sanction Checker Screenshot](/public/search.png)
 ## 🌟 Features
+
 
 - **Global Sanctions Search**: Search across multiple international sanctions databases
 - **Real-time API Integration**: Powered by OpenSanctions API for comprehensive data
@@ -294,9 +298,7 @@ sanction-checker/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the ISC License.
 
 ## 👨‍💻 Developer
 
@@ -308,7 +310,4 @@ This project is licensed under the ISC License.
 - [React Documentation](https://react.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
-## ⚠️ Disclaimer
-
-This tool is designed to assist with compliance screening but should not be the sole basis for business decisions. Always verify results through official channels and consult with legal professionals for compliance matters.
 >>>>>>> Stashed changes
