@@ -12,7 +12,7 @@ const About = () => {
       <p class="leading-relaxed text-lg">Passionate full-stack developer building intuitive tools that solve real-world problems. With a focus on modern web technologies and ethical development, I create secure, scalable solutions that make a difference.I build practical web apps that solve real problems and help me grow as a developer.</p>
       <span class="inline-block h-1 w-10 rounded bg-white mt-8 mb-6"></span>
       <h2 class="text-white font-medium title-font tracking-wider text-sm">Pir Salman Shah</h2>
-      <p class="text-white">Junior Web Developer & Creator of Sanction Guard</p>
+      <p class="text-white">Junior Web Developer & Creator of Sanction Check</p>
     </div>
   </div>
 </section>

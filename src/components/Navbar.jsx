@@ -10,7 +10,7 @@ const Navbar = () => {
       <span className="ml-3 text-xl">SanctionCheck</span>
     </NavLink>
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-      <NavLink to="/search" className="mr-5 hover:text-white">Sreach</NavLink>
+      <NavLink to="/search" className="mr-5 hover:text-white">Search</NavLink>
       <NavLink to="/about" className="mr-5 hover:text-white">About Me</NavLink>
       
     </nav>
